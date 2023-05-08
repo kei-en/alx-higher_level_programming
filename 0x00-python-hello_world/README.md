@@ -9,3 +9,8 @@
 - **6-concat.py** - prints _Welcome_ to Holberton School!"
 - **7-edges.py** - prints first 3 letters, last 2 lettersof _word_ variable and without the last and first letters - ***8-concat_edges.py*** - prints _object_oriented programming with Python_
 - ***9-easter_egg.py - prints "The Zen of Python", by TimPeters
+- **Linked list cycle**
+  - ***10-check_cycle.c*** - checks if a linked list contains a cycle in it
+  - Helper files:
+    - ***linked_list.c*** - functions handling linked lists for testing *10-check_cycle.c*
+    - **lists.h** - header file containing definitions and prototypes
