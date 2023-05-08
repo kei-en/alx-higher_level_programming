@@ -7,4 +7,4 @@
 - ***4-print_float.py*** - prints float stored in the variable _number_
 - ***5-print_string.py*** - prints a string 3 times, followed by the first 9 characters of the string
 - **6-concat.py** - prints _Welcome_ to Holberton School!"
-- **7-edges.py** - prints first 3 letters, last 2 lettersof _word_ variable and without the last and first letters 
+- **7-edges.py** - prints first 3 letters, last 2 lettersof _word_ variable and without the last and first letters - ***8-concat_edges.py*** - prints _object_oriented programming with Python_
