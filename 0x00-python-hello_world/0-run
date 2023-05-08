@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /root/alx-higher_level_programming/0x00-python-hello_world/main.py
+python3 main.py
