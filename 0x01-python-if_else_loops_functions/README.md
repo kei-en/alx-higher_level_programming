@@ -14,3 +14,7 @@
 - **12-fizzbuzz.py** - prints the numbers from 1 to 100 separated by a space
   - For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
   - For numbers which are multiples of both three and five print FizzBuzz.
+- ***13-insert_number.c*** - inserts a number into a sorted singly linked list
+  - Helper files:
+    - ***linked_lists.c*** - functions handling linked lists for testing *13-insert_number.c*
+    - **lists.h** - header filee containing type definitions and function prototypes
