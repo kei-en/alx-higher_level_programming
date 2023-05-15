@@ -10,3 +10,5 @@
 - ***7-add_tuple.py*** - Adds 2 tuples
 - ***8-multiple_returns.py*** - returns a tuple with the length of a string and it's first character
 - ***9-max_integer.py*** - finds the largest integer of a list
+- ***10-divisible_by_2.py*** - finds all multiples of 2 in a list
+
