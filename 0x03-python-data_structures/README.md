@@ -7,3 +7,4 @@
 - ***4-new_in_list.py*** - replaces an element in a list at a specific position without modifying the original list
 - ***5-no_c.py*** - Removes all characters *c* and *C* from a string
 - ***6-print_matrix_integer.py*** - Prints a matrix of integers
+- ***7-add_tuple.py*** - Adds 2 tuples
