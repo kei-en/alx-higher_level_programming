@@ -13,3 +13,7 @@
 - ***10-divisible_by_2.py*** - finds all multiples of 2 in a list
 - ***11-delete_at.py*** - deletes the item at a specific position in a list
 - **12-switch.py** - switches the values *a* and *b*
+- ***13-is_palindrome.c*** - checks if a singly-linked list is a palindrome
+  - Helper files:
+    - ***linked_lists.c*** - functions handling linked lists for testing
+    - **lists.h** - header file containing type definitions and function prototypes
