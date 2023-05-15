@@ -8,3 +8,4 @@
 - ***5-no_c.py*** - Removes all characters *c* and *C* from a string
 - ***6-print_matrix_integer.py*** - Prints a matrix of integers
 - ***7-add_tuple.py*** - Adds 2 tuples
+- ***8-multiple_returns.py*** - returns a tuple with the length of a string and it's first character
