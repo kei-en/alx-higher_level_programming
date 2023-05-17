@@ -10,6 +10,6 @@
 - ***7-update_dictionary.py*** - replaces or add key/value in a dictionary
 - ***8-simple_delete.py*** - deletes a key in a dictionary
 - ***9-multiply_by_2.py*** - returns a new dictionary with all the values multiplied by 2
-***10-best_score.py*** - returns a key with the biggest integer value
-***11-multiply_list_map.py*** - returns a list with all values multiplied by a number without using any loops
-
+- ***10-best_score.py*** - returns a key with the biggest integer value
+- ***11-multiply_list_map.py*** - returns a list with all values multiplied by a number without using any loops
+- ***12-roman_to_int.py*** - converts a Roman numeral to an integer
