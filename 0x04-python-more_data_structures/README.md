@@ -5,4 +5,5 @@
 - ***2-uniq_add.py*** - adds all unique integers in a list
 - ***3-common_elements.py*** - retirns a set of common elements in two sets
 - ***4-only_diff_elements.py*** - returns a set of all elements present only in one set
+- ***5-number_keys.py*** - returns the number of keys in a dictionary
 
