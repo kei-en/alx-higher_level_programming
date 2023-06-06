@@ -12,8 +12,6 @@
   - [4-print_square.txt](./tests/4-print_square.txt)
   - [5-text_indentation.txt](./tests/text_indentation.txt)
   - [6-max_integer_test.py](./tests/6-max_integer_test.py)
-  - [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
-  - [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
 
 - **0. Integers addition**
 
