@@ -5,8 +5,8 @@
 ## Tests :heavy_check_mark:
 
 - [tests](./tests): Folder of test files. Includes:
-  _ [1-my_list.txt](./tests/1-my_list.txt)
-  _ [7-base_geometry.txt](./tests/7-base_geometry.txt)
+  - [1-my_list.txt](./tests/1-my_list.txt)
+  - [7-base_geometry.txt](./tests/7-base_geometry.txt)
 
 ## Tasks :page_with_curl:
 
