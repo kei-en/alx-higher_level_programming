@@ -4,8 +4,7 @@
 
 ## Tests :heavy_check_mark:
 
-- [tests](./tests): Folder of test files. Includes both Holberton-provided ones
-  as well as the following two independently-developed:
+- [tests](./tests): Folder of test files. Includes:
   _ [1-my_list.txt](./tests/1-my_list.txt)
   _ [7-base_geometry.txt](./tests/7-base_geometry.txt)
 
