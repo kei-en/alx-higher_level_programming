@@ -18,6 +18,7 @@ from models.square import Square
 
 class TestBase_insantiation(unittest.TestCase):
     """Unittests for testing instantiation of the Base class"""
+
     def test_no_arg(self):
         b1 = Base()
         b2 = Base()
@@ -41,7 +42,7 @@ class TestBase_insantiation(unittest.TestCase):
         b1 = Base()
         b2 = Base(12)
         b3 = Base()
-        self.asserEqual(b1.id, b3.id - 1)
+        self.assertEqual(b1.id, b3.id - 1)
 
     def test_id_public(self):
         b = Base(12)
@@ -62,17 +63,17 @@ class TestBase_insantiation(unittest.TestCase):
         self.assertEqual(complex(5), Base(complex(5)).id)
 
     def test_dict_id(self):
-        self.assertEqual({"a", 1, "b": 2}, Base({"a": 1, "b": 2}).id)
+        self.assertEqual({"a": 1, "b": 2}, Base({"a": 1, "b": 2}).id)
 
     def test_bool_id(self):
         self.assertEqual(True, Base(True).id)
 
     def test_list_id(self):
         self.assertEqual([1, 2, 3], Base([1, 2, 3]).id)
-    
+
     def test_tuple_id(self):
         self.assertEqual((1, 2), Base((1, 2)).id)
-    
+
     def test_frozenset_id(self):
         self.assertEqual(frozenset({1, 2, 3}), Base(frozenset({1, 2, 3})).id)
 
@@ -396,6 +397,7 @@ class TestBase_load_from_file(unittest.TestCase):
     def test_load_from_file_more_than_one_arg(self):
         with self.assertRaises(TypeError):
             Base.load_from_file([], 1)
+
 
 if __name__ == "__main__":
     unittest.main()
